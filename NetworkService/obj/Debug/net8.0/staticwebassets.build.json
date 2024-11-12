@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bB1vSxGWQ4Mmxpp98eQJCSeyjb1qauA1c+4hq1TuWuA=",
+  "Source": "NetworkService",
+  "BasePath": "_content/NetworkService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
